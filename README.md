@@ -15,7 +15,7 @@ PORT=8080
 #### Paso 1:
 
 ```git
-git clone 
+git clone https://github.com/FranciscoImanolSuarez/Blockchain-en-Golang
 ```
 
 #### Paso 2:
