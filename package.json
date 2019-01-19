@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-en-golang",
+  "version": "1.0.0",
+  "description": "Una simple cadena de bloques escrita en Golang en menos de 200 lineas",
+  "main": "index.js",
+  "scripts": {
+    "test": "go run main.go"
+  },
+  "author": "Francisco Imanol Suarez",
+  "license": "MIT"
+}
