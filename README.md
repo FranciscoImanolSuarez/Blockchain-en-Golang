@@ -46,7 +46,7 @@ go run main.go
 
 Y deberiamos ver algo parecido a lo siguiente
 
-![](/Users/franciscosuarez/Desktop/Captura de pantalla 2019-01-19 a la(s) 18.31.55.png)
+![](https://github.com/FranciscoImanolSuarez/Blockchain-en-Golang/blob/master/.readme-static/Captura%20de%20pantalla%202019-01-19%20a%20la(s)%2018.31.55.png)
 
 Asi como tambien podemos ir a localhost:8080
 
