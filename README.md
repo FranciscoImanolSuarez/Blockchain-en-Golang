@@ -15,19 +15,19 @@ PORT=8080
 #### Paso 1:
 
 ```git
-git clone 
+git clone https://github.com/FranciscoImanolSuarez/Blockchain-en-Golang
 ```
 
 #### Paso 2:
 
 ```go
-	go get ``github.com/davecgh/go-spew/spew
+go get github.com/davecgh/go-spew/spew
 ```
 
-Spew* nos permite ver `structs`y `slices`formatear limpiamente en nuestra consola.
+*Spew* nos permite ver `structs`y `slices`formatear limpiamente en nuestra consola.
 
 ```go
-	go get ``github.com/gorilla/mux
+go get github.com/gorilla/mux
 ```
 
 Gorilla / mux* es un paquete popular para escribir manejadores web. Vamos a necesitar esto.
@@ -36,9 +36,9 @@ Gorilla / mux* es un paquete popular para escribir manejadores web. Vamos a nece
 go get github.com/joho/godotenv
 ```
 
-G*odotenv* nos permite leer un  `.env` archivo que guardamos en la raíz de nuestro directorio para que no tengamos que codificar cosas como nuestros puertos http.
+*Godotenv* nos permite leer un  `.env` archivo que guardamos en la raíz de nuestro directorio para que no tengamos que codificar cosas como nuestros puertos http.
 
-####Paso 3:
+#### Paso 3:
 
 ```go
 go run main.go
